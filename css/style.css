@@ -185,9 +185,9 @@ header .intro-text {
 	text-align: center;
 }
 #about img {
-	border-radius: 50%;
-	width: 160px;
-	height: 160px;
+	border-radius: 20%;
+	/* width: 160px; */
+	/* height: 160px; */
 	display: inline-block;
 }
 #about p {
