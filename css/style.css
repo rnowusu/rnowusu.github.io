@@ -277,6 +277,34 @@ ol.type li a:hover {
 	margin: auto;
 	justify-content: center;
 } */
+
+/* .portfolio-items.isotope{
+	left: 12%;
+} */
+
+.project-links{
+	/* text-align: center; */
+	/* top: 70px; */
+	padding-left: 45px;
+	padding-top: 20px;
+}
+
+.project-link {
+	font-size: 20px;
+	padding: 10px;
+	border-radius: 15px;
+	text-align: center;
+}
+.project-link:hover {
+	background-color: #eee;
+}
+.project-link:active {
+	background-color: white;
+  border: 1px solid #6dccfb;
+  padding: 9px;
+  box-shadow: 0px 0px 3px 3px #6dccfb;
+}
+
 .portfolio-item .hover-bg {
 	height: 195px;
 	overflow: hidden;
